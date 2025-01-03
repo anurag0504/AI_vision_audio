@@ -1,0 +1,9 @@
+opencv-python==4.10.0
+mediapipe==0.10.0
+speechrecognition==3.8.1
+pyttsx3==2.90
+openai==0.27.8
+Pillow==9.5.0
+googletrans==4.0.0-rc1
+librosa==0.10.0
+numpy==1.25.0
