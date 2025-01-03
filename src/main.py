@@ -96,8 +96,7 @@ def voice_loop(ai):
     ai.voice_processor.run()
 
 def main():
-    api_key = "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"
-
+    api_key = "Provide your API key"
     # Initialize the advanced AI
     ai = AdvancedAI(api_key)
 
